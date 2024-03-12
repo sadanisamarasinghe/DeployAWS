@@ -1,2 +1,2 @@
-# DeployAWS
-Deploy simple node.js application on AWS(EC2 instance)
+# deploy_01_AWS
+deploy simple node.js web application on AWS(EC2)
